@@ -4,7 +4,7 @@
   "name": "hidden-fog-df26",
   "migrations": [
     {
-      "new_classes": ["Globe"],
+      "new_sqlite_classes": ["Globe"],
       "tag": "v1"
     }
   ],
